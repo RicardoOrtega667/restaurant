@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nuevo{
+  font-size: 20px;
+  margin: 3px;
+ 
+}
+
+.Cardss{
+  
+  background-image: url(./images/Mejores-mariscos-de-Mexico.jpg);
+  color: black;
+    font-weight: bold;
+  justify-content: center;align-items: center;
+}
+
