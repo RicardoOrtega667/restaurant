@@ -7,9 +7,6 @@ function BasicExample() {
       <Nav.Link href="/home">Home Page</Nav.Link>
     </Nav.Item>
     <Nav.Item>
-      <Nav.Link eventKey="link-1">Menú</Nav.Link>
-    </Nav.Item>
-    <Nav.Item>
       <Nav.Link eventKey="link-2" >
       Reserve With Us
       </Nav.Link>

@@ -4,16 +4,18 @@ import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 import BasicExample from "./BasicExample";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import ImgOverlayExample from "./ImgOverlayExample";
+import Main from "./pages/main";
 import App from "./App";
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <BasicExample />
+    <Main />
     <App />
-    <ImgOverlayExample /> 
-  </React.StrictMode>
+    
+    </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function

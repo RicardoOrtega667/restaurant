@@ -12,17 +12,57 @@ code {
     monospace;
 }
 
-.nuevo{
+.nuevo {
   font-size: 20px;
   margin: 3px;
- 
+
 }
 
-.Cardss{
-  
+.Cardss {
+
   background-image: url(./images/Mejores-mariscos-de-Mexico.jpg);
   color: black;
-    font-weight: bold;
-  justify-content: center;align-items: center;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
 }
 
+.App {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  width: 100%;
+}
+
+.card h2{
+  margin: 20px;
+  height: 80px;
+}
+
+
+.main{
+  height: 500px;
+  background-image: url(./images/Mejores-mariscos-de-Mexico.jpg);
+  background-size: 100%;
+}
+
+.main h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-size: 80px;
+  }
+
+  .main h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    color: lightgray;
+  }
