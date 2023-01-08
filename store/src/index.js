@@ -6,6 +6,7 @@ import BasicExample from "./BasicExample";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Main from "./pages/main";
 import App from "./App";
+import Footer from "./pages/footer";
 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -14,6 +15,7 @@ root.render(
     <BasicExample />
     <Main />
     <App />
+    <Footer />
     
     </React.StrictMode>
 );

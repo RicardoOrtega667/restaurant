@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+ }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -15,7 +15,13 @@ code {
 .nuevo {
   font-size: 20px;
   margin: 3px;
+  background-color: black;
+  color: white;
+}
 
+.nuevo :hover{
+ background-color: white;
+ color: black;
 }
 
 .Cardss {
@@ -32,16 +38,19 @@ code {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  background-color: burlywood;
+ 
 }
 
 .card {
   display: flex;
   width: 100%;
+  background-color: burlywood;
 }
 
 .card h2{
-  margin: 20px;
   height: 80px;
+  background-color: burlywood;
 }
 
 
@@ -65,4 +74,17 @@ code {
     justify-content: center;
     padding: 50px;
     color: lightgray;
+  }
+
+  .reservations{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 35px;
+    border: 1px solid;
+  }
+
+  .reservations input{
+    width: 400px;
   }
