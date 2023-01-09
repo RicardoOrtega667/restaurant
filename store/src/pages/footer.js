@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="reservations">
+    <div className="reservations" >
         <h1>Reserva con nosotros!</h1>
       <input type="text"></input>
       <label>Correo</label>

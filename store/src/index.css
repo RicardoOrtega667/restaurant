@@ -24,15 +24,6 @@ code {
  color: black;
 }
 
-.Cardss {
-
-  background-image: url(./images/Mejores-mariscos-de-Mexico.jpg);
-  color: black;
-  font-weight: bold;
-  justify-content: center;
-  align-items: center;
-}
-
 .App {
   display: flex;
   flex-direction: row;
@@ -46,6 +37,7 @@ code {
   display: flex;
   width: 100%;
   background-color: burlywood;
+  margin-bottom: 0px;
 }
 
 .card h2{
@@ -83,8 +75,12 @@ code {
     align-items: center;
     margin: 35px;
     border: 1px solid;
+    background-color: bisque;
   }
 
   .reservations input{
     width: 400px;
   }
+
+ 
+  
