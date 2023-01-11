@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RicardoOrtega667/restaurant.github.io/static/css/main.3d1b35fe.css",
-    "main.js": "/RicardoOrtega667/restaurant.github.io/static/js/main.e62ba610.js",
-    "static/js/787.884e199e.chunk.js": "/RicardoOrtega667/restaurant.github.io/static/js/787.884e199e.chunk.js",
-    "static/media/Mejores-mariscos-de-Mexico.jpg": "/RicardoOrtega667/restaurant.github.io/static/media/Mejores-mariscos-de-Mexico.74440ea0a801d7b09817.jpg",
-    "index.html": "/RicardoOrtega667/restaurant.github.io/index.html",
-    "main.3d1b35fe.css.map": "/RicardoOrtega667/restaurant.github.io/static/css/main.3d1b35fe.css.map",
-    "main.e62ba610.js.map": "/RicardoOrtega667/restaurant.github.io/static/js/main.e62ba610.js.map",
-    "787.884e199e.chunk.js.map": "/RicardoOrtega667/restaurant.github.io/static/js/787.884e199e.chunk.js.map"
+    "main.css": "/restaurant/static/css/main.02dcdd14.css",
+    "main.js": "/restaurant/static/js/main.23569bd4.js",
+    "static/js/787.884e199e.chunk.js": "/restaurant/static/js/787.884e199e.chunk.js",
+    "static/media/Mejores-mariscos-de-Mexico.jpg": "/restaurant/static/media/Mejores-mariscos-de-Mexico.74440ea0a801d7b09817.jpg",
+    "index.html": "/restaurant/index.html",
+    "main.02dcdd14.css.map": "/restaurant/static/css/main.02dcdd14.css.map",
+    "main.23569bd4.js.map": "/restaurant/static/js/main.23569bd4.js.map",
+    "787.884e199e.chunk.js.map": "/restaurant/static/js/787.884e199e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d1b35fe.css",
-    "static/js/main.e62ba610.js"
+    "static/css/main.02dcdd14.css",
+    "static/js/main.23569bd4.js"
   ]
 }
